@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bcsamarasinghe" target="blank"><img align="center" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" alt="bcsamarasinghe" height="30" width="40" /></a>
-<a href="https://fb.com/lakinduonline" target="blank"><img align="center" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" alt="lakinduonline" height="30" width="40" /></a>
+<a href="https://fb.com/lakinduonline" target="blank"><img align="center" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png" alt="lakinduonline" height="30" width="40" /></a>
 <a href="https://instagram.com/lakinduchandula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="lakinduchandula" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lakinduchandula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="lakinduchandula" height="30" width="40" /></a>
 </p>
