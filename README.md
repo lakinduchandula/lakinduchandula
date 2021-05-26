@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bcsamarasinghe" target="blank"><img align="center" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" alt="bcsamarasinghe" height="30" width="40" /></a>
-<a href="https://fb.com/lakinduonline" style="margin-right:15px" target="blank"><img align="center" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png" alt="lakinduonline" height="40" width="40" /></a>
-<a href="https://instagram.com/lakinduchandula" style="margin-right:15px" target="blank"><img align="center" src="https://facebookbrand.com/wp-content/uploads/2021/03/Instagram_AppIcon_Aug2017.png?w=300&h=300" alt="lakinduchandula" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/lakinduchandula/" style="margin-right:15px" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="lakinduchandula" height="30" width="80" /></a>
+<a href="https://fb.com/lakinduonline" style="margin-right:10px" target="blank"><img align="center" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png" alt="lakinduonline" height="40" width="40" /></a>
+<a href="https://instagram.com/lakinduchandula" style="margin-right:20px" target="blank"><img align="center" src="https://facebookbrand.com/wp-content/uploads/2021/03/Instagram_AppIcon_Aug2017.png?w=300&h=300" alt="lakinduchandula" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/lakinduchandula/" style="margin-right:30px" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="lakinduchandula" height="30" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
