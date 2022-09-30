@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lakinduchandula?tab=repositories](https://github.com/lakinduchandula?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/lakinduchandula?tab=repositories)
 
 - 💬 Ask me about **Java, JavaScript, C, CentOS**
 
