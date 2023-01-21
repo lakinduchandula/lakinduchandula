@@ -32,6 +32,7 @@
 
 <a href="http://www.github.com/lakinduchandula"><img src="https://github-readme-stats.vercel.app/api?username=lakinduchandula&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lakinduchandula's GitHub stats" /></a>
 
-#<p><img align="left" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?#username=lakinduchandula&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lakinduchandula" /></p>
+[//]: # (<p><img align="left" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=lakinduchandula&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lakinduchandula" /></p>)
 
-# <p>&nbsp;<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=lakinduchandula&show_icons=true&locale=en&theme=tokyonight" #alt="lakinduchandula" /></p>
+[//]: # (<p>&nbsp;<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=lakinduchandula&show_icons=true&locale=en&theme=tokyonight"&alt="lakinduchandula" /></p>)
+
