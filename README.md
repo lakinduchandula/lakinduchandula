@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, JavaScript, C, CentOS**
 
-- 📫 How to reach me **lakindu.chandula@hotmail.com**
+- 📫 How to reach me **contact@lakinduchandula.com**
 
 - ⚡ Fun fact **Right arm medium Fast | 🏏**
 
