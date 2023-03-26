@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/bcsamarasinghe" target="blank"><img src="https://img.shields.io/twitter/follow/bcsamarasinghe?logo=twitter&style=for-the-badge" alt="bcsamarasinghe" /></a> </p>
 
-- 🔭 I’m currently working on [online-shop](https://github.com/lakinduchandula/Node__AcadeMind.git)
+- 🔭 I’m currently working on [movie-ratings-lambda-func](https://github.com/lakinduchandula/movie-ratings-lambda-func)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/lakinduchandula?tab=repositories)
 
-- 💬 Ask me about **Java, JavaScript, C, CentOS**
+- 💬 Ask me about **Terraform, JavaScript, Docker, CentOS**
 
 - 📫 How to reach me **contact@lakinduchandula.com**
 
