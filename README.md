@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakindu C. Samarasinghe</h1>
 <h3 align="center">Intern, SRE at LSEG in Sri Lanka</h3>
-<h3 align="center">IT Graduate at University of Sri Jayewardenepura</h3>
+<h3 align="center">IT Graduate (University of Sri Jayewardenepura)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakinduchandula&label=Profile%20views&color=0e75b6&style=flat" alt="lakinduchandula" /> </p>
 
