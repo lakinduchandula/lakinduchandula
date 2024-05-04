@@ -8,7 +8,7 @@
 
 - 🔭 I'm highly passionate about **Automation**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Go Lang**
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/lakinduchandula?tab=repositories)
 
