@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/bcsamarasinghe" target="blank"><img src="https://img.shields.io/twitter/follow/bcsamarasinghe?logo=twitter&style=for-the-badge" alt="bcsamarasinghe" /></a> </p>
 
-- 🔭 I'm highly passionate about **Automation**
+- 🔭 I'm highly passionate about **Cloud Networking Infrastructure**
 
-- 🌱 I’m currently learning **Go Lang**
+- 🌱 I’m currently learning **Poweshell**
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/lakinduchandula?tab=repositories)
 
-- 💬 Ask me about **Terraform, Python, JavaScript, Docker, CentOS**
+- 💬 Ask me about **Azure, AWS, PowerShell, Terraform, Python, Jenkins, GitLab, CentOS**
 
 - 📫 How to reach me **contact@lakinduchandula.com**
 
