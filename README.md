@@ -8,7 +8,7 @@
 
 - 🔭 I'm highly passionate about **Cloud Networking Infrastructure**
 
-- 🌱 I’m currently learning **Poweshell**
+- 🌱 I’m currently learning **PoweShell**
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/lakinduchandula?tab=repositories)
 
